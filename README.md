@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[cv](https://github.com/webmak1/rsschool-cv/blob/gh-pages/cv.md)
+[cv](https://github.com/webmakaka/rsschool-cv/blob/gh-pages/cv.md)
