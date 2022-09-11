@@ -4,4 +4,4 @@
 
 ### Я просто webmakaka
 
-### JS, Node.js
+### JS, Node.js, React.js
