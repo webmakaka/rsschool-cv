@@ -108,3 +108,22 @@ body {
   margin: 0 auto;
   color: #fff;
 }
+
+.section-profile-logo {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, .6);
+  filter: grayscale(0.2) brightness(1.05);
+  transition: .3s;
+}
+
+.section-profile-logo:hover {
+  filter: none;
+}
+
+.pre {
+  padding: 0;
+  margin: 0;
+}
